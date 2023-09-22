@@ -681,19 +681,25 @@ AddLanguage('EN','english',{
 		"dragons freeze in streets. Their fur beginning to shed!"
 	],
 	"Ticker (grandma invasion full)": [
+<<<<<<< HEAD
 		"wrinkled \"furless dragons\" visible from space!",
 		"all hope lost as writhing mass of flesh and rawrs engulfing entire cities!",
 		"nightmare continues as wrinkled acres of furless dragons expand at alarming speeds!"
+=======
+		"furless \"flesh wings\" visible from space!",
+		"all hope lost as writhing mass of flesh and dragons engulfs whole city!",
+		"nightmare continues as furless acres of wings expand at alarming speeds!"
+>>>>>>> 64bbaeb5248bbde1194cb297b66f085d5a6c2b65
 	],
 	"Ticker (Farm)": [
-		"dragon farms release harmful chocolate in our rivers, says scientist!",
-		"genetically-modified chocolate controversy strikes dragon farmers!",
-		"farm cookies deemed unfit for vegans, says nutritionist."
+		"dragon farms release harmful dragon stink in our rivers, says researchist!",
+		"genetically-modified dragons controversy strikes dragon farmers!",
+		"farm dragons deemed unfit for hertics, says cult researchist."
 	],
 	"Ticker (Mine)": [
-		"is our planet getting lighter? Experts examine the effects of intensive chocolate mining.",
-		"chocolate mines found to cause earthquakes and sinkholes!",
-		"depths of chocolate mines found to house \"peculiar, chocolaty beings\"!"
+		"is our planet getting lighter? Experts examine the effects of intensive mining.",
+		"dragon mines found to cause earthquakes and sinkholes!",
+		"depths of dragon mines found to house \"peculiar, stinky beings\"!"
 	],
 	"Ticker (Factory)": [
 		"dragon factories linked to global warming!",
@@ -702,13 +708,13 @@ AddLanguage('EN','english',{
 	],
 	"Ticker (Bank)": [
 		"dragon loans on the rise as people can no longer afford them with regular money.",
-		"cookies slowly creeping up their way as a competitor to traditional currency!",
+		"dragons slowly creeping up their way as a competitor to traditional currency!",
 		"most bakeries now fitted with ATMs to allow for easy dragon withdrawals and deposits."
 	],
 	"Ticker (Temple)": [
 		"recently-discovered chocolate temples now sparking new dragon-related cult; thousands pray to Baker in the sky!",
 		"theists of the world discover new dragon religion - \"Oh boy, guess we were wrong all along!\"",
-		"explorers bring back ancient artifact from abandoned temple; archeologists marvel at the centuries-old rolling pin!"
+		"explorers bring back ancient artifact from abandoned temple; archeologists marvel at the centuries-old temples!"
 	],
 	"Ticker (Wizard tower)": [
 		"get your new charms and curses at the yearly National Spellcrafting Fair! Exclusive prices on runes and spellbooks.",
@@ -716,24 +722,24 @@ AddLanguage('EN','english',{
 		"\"Any sufficiently crude magic is indistinguishable from technology\", claims renowned technowizard."
 	],
 	"Ticker (Shipment)": [
-		"new chocolate planet found, becomes target of dragon-trading spaceships!",
-		"massive chocolate planet found with 99.8% certified pure dark chocolate core!",
-		"chocolate-based organisms found on distant planet!"
+		"new derg planet found, becomes target of dragon-trading spaceships!",
+		"massive derg planet found with 99.8% certified pure dragon core!",
+		"dragon-based organisms found on distant planet!"
 	],
 	"Ticker (Alchemy lab)": [
-		"national gold reserves dwindle as more and more of the precious mineral is turned to cookies!",
-		"silver found to also be transmutable into white chocolate!",
-		"defective alchemy lab shut down, found to convert cookies to useless gold."
+		"national gold reserves dwindle as more and more of the precious mineral is turned to dragons!",
+		"silver found to also be transmutable into shiny dragon!",
+		"defective alchemy lab shut down, found to convert dragons to useless shiny gold."
 	],
 	"Ticker (Portal)": [
 		"nation worried as more and more unsettling creatures emerge from dimensional portals!",
-		"tourism to cookieverse popular with bored teenagers! Casualty rate as high as 73%!",
-		"cookieverse portals suspected to cause fast aging and obsession with baking, says study."
+		"tourism to dragonverse popular with bored teenagers! Boykissing rate as high as 90%!",
+		"dragonverse portals suspected to cause fast aging and obsession with baking, says study."
 	],
 	"Ticker (Time machine)": [
 		"time machines involved in history-rewriting scandal! Or are they?",
-		"cookies brought back from the past \"unfit for human consumption\", says historian.",
-		"\"I have seen the future,\" says time machine operator, \"and I do not wish to go there again.\""
+		"dragon brought back from the past \"unfit for human worshipping\", says historian.",
+		"\"I have seen the fluffy future,\" says time machine operator, \"and I do wish to go back there.\""
 	],
 	"Ticker (Antimatter condenser)": [
 		"whole town seemingly swallowed by antimatter-induced black hole; more reliable sources affirm town \"never really existed\"!",
@@ -742,7 +748,7 @@ AddLanguage('EN','english',{
 	],
 	"Ticker (Prism)": [
 		"scientists warn against systematically turning light into matter - One day, we'll end up with all matter and no light!\"",
-		"cookies now being baked at the literal speed of light thanks to new prismatic contraptions.",
+		"dragons now being praised at the literal speed of light thanks to new prismatic contraptions.",
 		"world citizens advised \"not to worry\" about frequent atmospheric flashes."
 	],
 	"Ticker (Chancemaker)": [
@@ -751,17 +757,17 @@ AddLanguage('EN','english',{
 		"neighboring nation somehow elects president with sensible policies in freak accident of random chance!"
 	],
 	"Ticker (Fractal engine)": [
-		"local man \"done with Cookie Clicker\", finds the constant self-references \"grating and on-the-nose\".",
-		"local guru claims \"there's a little bit of ourselves in everyone\", under investigation for alleged cannibalism.",
-		"polls find idea of cookies made of cookies \"acceptable\" - \"at least we finally know what's in them\", says interviewed citizen."
+		"local man \"done with Dragon (Cookie) Clicker\", finds the constant self-references \"grating and on-the-nose\".",
+		"local guru claims \"there's a little bit of ourselves in everyone\", under investigation for dragon cannibalism.",
+		"polls find idea of dragons made of scales \"acceptable\" - \"at least we finally know what's in them\", says interviewed citizen."
 	],
 	"Ticker (Javascript console)": [
-		"coding is hip! More and more teenagers turn to technical fields like programming, ensuring a future robot apocalypse and the doom of all mankind.",
+		"coding is hip! More and more teenagers turn to technical fields like programming, ensuring a future robot apocalypse and many praising of all mankind.",
 		"developers unsure what to call their new javascript libraries as all combinations of any 3 dictionary words have already been taken.",
-		"strange fad has parents giving their newborns names such as Emma.js or Liam.js. At least one Baby.js reported."
+		"CarlTheFox bashing his head for the EN.js while modding the Cookie Clicker language file! \"I should've slept.\" said the tired fox."
 	],
 	"Ticker (Idleverse)": [
-		"is another you living out their dreams in an alternate universe? Probably, you lazy bum!",
+		"is another you living out their dreams in an alternate universe? Probably, you lazy stinky!",
 		"\"I find solace in the knowledge that at least some of my alternate selves are probably doing fine out there\", says citizen's last remaining exemplar in the multiverse.",
 		"comic book writers point to actual multiverse in defense of dubious plot points. \"See? I told you it wasn't 'hackneyed and contrived'!\""
 	],
@@ -772,7 +778,7 @@ AddLanguage('EN','english',{
 	],
 	"Ticker (You)": [
 		"the person of the year is, this year again, you! How unexpected!",
-		"could local restaurants be serving you bootleg clone meat? Our delicious investigation follows after tonight's news.",
+		"could local restaurants be serving you suspicious clone cookies? Our delicious investigation follows after tonight's news.",
 		"beloved dragon magnate, erroneously reported as trampled to death by crazed fans, thankfully found to be escaped clone mistaken for original."
 	],
 	"Ticker (Halloween)": [
@@ -799,6 +805,7 @@ AddLanguage('EN','english',{
 	],
 	"Ticker (misc)": [
 		"doctors recommend twice-daily dragon snuggling.",
+<<<<<<< HEAD
 		"doctors advise against a new dragon free fad lifestyle.",
 		"doctors warn mothers about the dangers of \"self gathered dragons\".",
 		"\"I'm not addicted to dragons. That's just speculation by fans with too much free time\", reveals celebrity.",
@@ -814,6 +821,23 @@ AddLanguage('EN','english',{
 		"is our media controlled by the dragons? This is very much the case. And they are absolutely adorable.",
 		"\"at this point, dragons permeate every aspect of our lives\", concludes scientists. \"If we stop snuggling them. We will be offered as sacrifices.\"",
 		"Dragons are seen as inferior to kobold in some backwards country nobody cares about. Political tensions rising; war soon, hopefully."
+=======
+		"doctors advise against new dragon-free fad lifestyle.",
+		"doctors warn mothers about the dangers of \"home-made dragons\".",
+		"\"I'm not addicted to dragons. That's just speculation by fans with too much free time\", reveals celebrity.",
+		"\"alright, I'll say it - I've never worshipped a single dragon in my life\", reveals celebrity.",
+		"\"dragons helped me stay wise and alive\", reveals celebrity.",
+		"man robs bank, gave the shiny to dragon.",
+		"new study suggests dragons neither speed up nor slow down aging, but instead \"take you in a different direction\".",
+		"man found allergic to stinky; \"he's already dead\", says family.",
+		"dragon shortage strikes town, people forced to eat cupcakes; \"just not the same\", concedes mayor.",
+		"\"you gotta admit, all this praising stuff is a bit ominous\", says confused idiot.",
+		"mysterious illegal cookies seized; \"tastes terrible\", says police.",
+		"\"Ook\", says interviewed orangutan.",
+		"is our media controlled by the dragons? This could very well be the case, says crackpot conspiracy theorist.",
+		"\"at this point, cookies permeate the economy\", says economist. \"If we start eating anything else, we're all dead.\"",
+		"cookies now illegal in some backwards country nobody cares about. Political tensions rising; war soon, hopefully."
+>>>>>>> 64bbaeb5248bbde1194cb297b66f085d5a6c2b65
 	],
 	"You feel like making dragons. But nobody wants to praise your dragons.": "/", 
 	"The first batch discovers right onto the streets. The neighborhood reeks of dragon.": "/", // I don't think dragons on the first batch want to go in the trash, or be touched by a raccoon.
@@ -927,7 +951,7 @@ AddLanguage('EN','english',{
 	"Purchased": "/",
 	"Unlocked forever": "/",
 	"Click to learn!": "/",
-	"Click to unlearn!": "/",
+	"Click to forget!": "/", // "Unlearn" is.. kinda "meh" from me. "Forget" would sound better.
 	"Upgrade": "/",
 	"Upgrades": "/",
 	"Achievement": "/",
@@ -982,7 +1006,7 @@ AddLanguage('EN','english',{
 	"You can also press %1 to bulk-buy or sell %2 of a building at a time, or %3 for %4.": "/",
 	"Investment": "/",
 	"You're not sure what this does, you just know it means profit.": "/",
-	"Cursor": "/",
+	"Cursor": "/", // Is this an item title?
 	"cursor": "/",
 	"cursors": "/",
 	"%1 cursor": [
@@ -990,18 +1014,18 @@ AddLanguage('EN','english',{
 		"%1 cursors"
 	],
 	"[Cursor quote]Autoclicks once every 10 seconds.": "Autoclicks once every 10 seconds.",
-	"[Cursor business name]Rolling pin": "Rolling pin",
-	"[Cursor business quote]Essential in flattening dough. The first step in cookie-making.": "Essential in flattening dough. The first step in dragon-making.",
-	"Grandma": "/",
+	"[Cursor business name]Praising hat": "Praising hat",
+	"[Cursor business quote]Essential in additional praising. The first step in dragon-praising.": "Essential in additional praising. The first step in dragon-praising.",
+	"Grandma": "/", 
 	"grandma": "/",
 	"grandmas": "/",
 	"%1 grandma": [
 		"%1 grandma",
 		"%1 grandmas"
 	],
-	"[Grandma quote]A nice grandma to bake more cookies.": "A nice grandma to bake more cookies.",
-	"[Grandma business name]Oven": "Oven",
-	"[Grandma business quote]A crucial element of baking cookies.": "A crucial element of baking cookies.",
+	"[Grandma quote]A nice baker to praise more dragons.": "A nice baker to praise more dragons.",
+	"[Grandma business name]Totem": "Totem",
+	"[Grandma business quote]A crucial element of praising dragons.": "A crucial element of praising dragons.",
 	"Farm": "/",
 	"farm": "/",
 	"farms": "/",
@@ -1465,7 +1489,7 @@ AddLanguage('EN','english',{
 	"Ascend <b>%1 times</b>.": "/",
 	"Ascend with <b>%1</b> baked.": "/",
 	"Make <b>%1</b> by only having clicked <b>%2 times</b>.": "/",
-	"Make <b>%1</b> with <b>no</b> cookie clicks.": "/",
+	"Make <b>%1</b> with <b>no</b> dragon praise.": "/",
 	"Get to <b>%1</b> baked with <b>no upgrades purchased</b>.": "/",
 	"Get to <b>%1</b> baked in <b>%2</b>.": "/",
 	"Make <b>%1</b> from clicking.": "/",
@@ -1498,8 +1522,8 @@ AddLanguage('EN','english',{
 	"Pop <b>1 reindeer</b>.": "/",
 	"Pop <b>%1 reindeer</b>.": "/",
 	"Pop a reindeer <b>during an elder frenzy</b>.": "/",
-	"Unlock <b>every Valentine-themed cookie</b>.": "/",
-	"Click the tiny cookie.": "/",
+	"Unlock <b>every Valentine-themed dragon</b>.": "/",
+	"Click the tiny dragon.": "/",
 	"This is for baking %1 and making it on the local news.": "/",
 	"Name yourself <b>Orteil</b>.<div class=\"warning\">Note: usurpers incur a -%1% DpS penalty until they rename themselves something else.</div>": "/",
 	"Use an <b>add-on</b>.": "/",
@@ -3095,7 +3119,7 @@ AddLanguage('EN','english',{
 	"[Achievement name 237]Faster menner": "Faster menner",
 	"[Achievement name 238]And yet you're still hungry": "And yet you're still hungry",
 	"[Achievement name 239]The Abakening": "The Abakening",
-	"[Achievement name 240]Inevitably long achievement names are mildly infuriating, but since we also want to take it a step further. <br>A dragon is often a large magical legendary creature that appears in the folklore of multiple cultures around the world. Beliefs about the dragons vary considerably throughout various regions, but dragons in western cultures since the High Middle Ages have often been depicted with wings, horns and the ability to breathing fire. Dragons in eastern cultures are usually depicted as wingless, quadrupedal, serpentine creatures with above-average intelligence. Commonalities between dragons' traits are often a hybridization of feline, reptilian, mammal, and avian features. Dragons have also been very quickly adopted into furry culture, just as commonly with fur as they are typically with scales. </br> anyway, how have you been?": "Inevitably long achievement names are mildly infuriating, but since we also want to take it a step further. <br>A dragon is often a large magical legendary creature that appears in the folklore of multiple cultures around the world. Beliefs about the dragons vary considerably throughout various regions, but dragons in western cultures since the High Middle Ages have often been depicted with wings, horns and the ability to breathing fire. Dragons in eastern cultures are usually depicted as wingless, quadrupedal, serpentine creatures with above-average intelligence. Commonalities between dragons' traits are often a hybridization of feline, reptilian, mammal, and avian features. Dragons have also been very quickly adopted into furry culture, just as commonly with fur as they are typically with scales. </br> anyway, how have you been?",
+	"[Achievement name 240]Inevitably long achievement names are mildly infuriating, but since we also want to take it a step further. <br>A dragon is often a large magical legendary creature that appears in the folklore of multiple cultures around the world. Beliefs about the dragons vary considerably throughout various regions, but dragons in western cultures since the High Middle Ages have often been depicted with wings, horns and the ability to breathing fire. Dragons in eastern cultures are usually depicted as wingless, quadrupedal, serpentine creatures with above-average intelligence. Commonalities between dragons' traits are often a hybridization of feline, reptilian, mammal, and avian features. Dragons have also been very quickly adopted into furry culture, just as commonly with fur as they are typically with scales. </br> anyway, how have you been?": "Inevitably long achievement names are mildly infuriating, but since we also want to take it a step further. <br>A dragon is often a large magical legendary creature that appears in the folklore of multiple cultures around the world. Beliefs about the dragons vary considerably throughout various regions, but dragons in western cultures since the High Middle Ages have often been depicted with wings, horns and the ability to breathing fire. Dragons in eastern cultures are usually depicted as wingless, quadrupedal, serpentine creatures with above-average intelligence. Commonalities between dragons' traits are often a hybridization of feline, reptilian, mammal, and avian features. Dragons have also been very quickly adopted into furry culture, just as commonly with fur as they are typically with scales. </br> Anyway, how have you been?",
 	"[Achievement name 241]Fast": "Fast",
 	"[Achievement name 242]Bicentennial and a half": "Bicentennial and a half",
 	"[Achievement name 243]Tabloid addiction": "Tabloid addiction",
