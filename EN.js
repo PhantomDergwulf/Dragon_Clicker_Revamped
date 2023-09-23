@@ -1,4 +1,4 @@
-AddLanguage('EN','english',{
+ModLanguage('EN',{
 	"": {
 		"language": "en",
 		"plural-forms": "nplurals=2;plural=(n!=1);"
@@ -662,13 +662,13 @@ AddLanguage('EN','english',{
 	],
 	"Ticker (grandmas return)": [
 		"shrivel",
-		"writhe",
-		"throb",
-		"gnaw",
+		"rer",
+		"rawwrrr",
+		"rawr",
 		"We will rise again.", 
 		"A mere setback.",
-		"We are not satiated.",
-		"Too late."
+		"We always return to cause chaos.",
+		"Fear us."
 	],
 	"Ticker (grandma invasion start)": [
 		"millions of dragons reported missing!", // The original mod had "Grandma" replaced with "Baker"
@@ -681,15 +681,9 @@ AddLanguage('EN','english',{
 		"dragons freeze in streets. Their fur beginning to shed!"
 	],
 	"Ticker (grandma invasion full)": [
-<<<<<<< HEAD
 		"wrinkled \"furless dragons\" visible from space!",
 		"all hope lost as writhing mass of flesh and rawrs engulfing entire cities!",
 		"nightmare continues as wrinkled acres of furless dragons expand at alarming speeds!"
-=======
-		"furless \"flesh wings\" visible from space!",
-		"all hope lost as writhing mass of flesh and dragons engulfs whole city!",
-		"nightmare continues as furless acres of wings expand at alarming speeds!"
->>>>>>> 64bbaeb5248bbde1194cb297b66f085d5a6c2b65
 	],
 	"Ticker (Farm)": [
 		"dragon farms release harmful dragon stink in our rivers, says researchist!",
@@ -805,7 +799,6 @@ AddLanguage('EN','english',{
 	],
 	"Ticker (misc)": [
 		"doctors recommend twice-daily dragon snuggling.",
-<<<<<<< HEAD
 		"doctors advise against a new dragon free fad lifestyle.",
 		"doctors warn mothers about the dangers of \"self gathered dragons\".",
 		"\"I'm not addicted to dragons. That's just speculation by fans with too much free time\", reveals celebrity.",
@@ -821,23 +814,6 @@ AddLanguage('EN','english',{
 		"is our media controlled by the dragons? This is very much the case. And they are absolutely adorable.",
 		"\"at this point, dragons permeate every aspect of our lives\", concludes scientists. \"If we stop snuggling them. We will be offered as sacrifices.\"",
 		"Dragons are seen as inferior to kobold in some backwards country nobody cares about. Political tensions rising; war soon, hopefully."
-=======
-		"doctors advise against new dragon-free fad lifestyle.",
-		"doctors warn mothers about the dangers of \"home-made dragons\".",
-		"\"I'm not addicted to dragons. That's just speculation by fans with too much free time\", reveals celebrity.",
-		"\"alright, I'll say it - I've never worshipped a single dragon in my life\", reveals celebrity.",
-		"\"dragons helped me stay wise and alive\", reveals celebrity.",
-		"man robs bank, gave the shiny to dragon.",
-		"new study suggests dragons neither speed up nor slow down aging, but instead \"take you in a different direction\".",
-		"man found allergic to stinky; \"he's already dead\", says family.",
-		"dragon shortage strikes town, people forced to eat cupcakes; \"just not the same\", concedes mayor.",
-		"\"you gotta admit, all this praising stuff is a bit ominous\", says confused idiot.",
-		"mysterious illegal cookies seized; \"tastes terrible\", says police.",
-		"\"Ook\", says interviewed orangutan.",
-		"is our media controlled by the dragons? This could very well be the case, says crackpot conspiracy theorist.",
-		"\"at this point, cookies permeate the economy\", says economist. \"If we start eating anything else, we're all dead.\"",
-		"cookies now illegal in some backwards country nobody cares about. Political tensions rising; war soon, hopefully."
->>>>>>> 64bbaeb5248bbde1194cb297b66f085d5a6c2b65
 	],
 	"You feel like making dragons. But nobody wants to praise your dragons.": "/", 
 	"The first batch discovers right onto the streets. The neighborhood reeks of dragon.": "/", // I don't think dragons on the first batch want to go in the trash, or be touched by a raccoon.
@@ -1006,126 +982,126 @@ AddLanguage('EN','english',{
 	"You can also press %1 to bulk-buy or sell %2 of a building at a time, or %3 for %4.": "/",
 	"Investment": "/",
 	"You're not sure what this does, you just know it means profit.": "/",
-	"Cursor": "/", // Is this an item title?
-	"cursor": "/",
-	"cursors": "/",
-	"%1 cursor": [
-		"%1 cursor",
-		"%1 cursors"
+	"Clicker": "/", // Is this an item title?
+	"clickers": "/",
+	"clickers": "/",
+	"%1 clicker": [
+		"%1 clicker",
+		"%1 clickers"
 	],
-	"[Cursor quote]Autoclicks once every 10 seconds.": "Autoclicks once every 10 seconds.",
+	"[Cursor quote]Autoclicks once every 10 seconds for a dragon.": "Autoclicks once every 10 seconds for a dragon.",
 	"[Cursor business name]Praising hat": "Praising hat",
 	"[Cursor business quote]Essential in additional praising. The first step in dragon-praising.": "Essential in additional praising. The first step in dragon-praising.",
-	"Grandma": "/", 
-	"grandma": "/",
-	"grandmas": "/",
-	"%1 grandma": [
-		"%1 grandma",
-		"%1 grandmas"
+	"Baker": "/", 
+	"baker": "/",
+	"bakers": "/",
+	"%1 baker": [
+		"%1 baker",
+		"%1 bakers"
 	],
 	"[Grandma quote]A nice baker to praise more dragons.": "A nice baker to praise more dragons.",
 	"[Grandma business name]Totem": "Totem",
 	"[Grandma business quote]A crucial element of praising dragons.": "A crucial element of praising dragons.",
-	"Farm": "/",
-	"farm": "/",
-	"farms": "/",
-	"%1 farm": [
-		"%1 farm",
-		"%1 farms"
+	"Farmer": "/",
+	"farmer": "/",
+	"farmers": "/",
+	"%1 farmer": [
+		"%1 farmer",
+		"%1 farmers"
 	],
-	"[Farm quote]Grows cookie plants from cookie seeds.": "Grows cookie plants from cookie seeds.",
-	"[Farm business name]Kitchen": "Kitchen",
-	"[Farm business quote]The more kitchens, the more cookies your employees can produce.": "The more kitchens, the more cookies your employees can produce.",
-	"Mine": "/",
-	"mine": "/",
-	"mines": "/",
-	"%1 mine": [
-		"%1 mine",
-		"%1 mines"
+	"[Farm quote]Dragon farmers to grow more dragons.": "Dragon farmers to grow more dragons.",
+	"[Farm business name]Rituals": "Rituals",
+	"[Farm business quote]The more rituals, the more dragons your employees can produce.": "The more rituals, the more dragons your employees can produce.",
+	"Miner": "/",
+	"miner": "/",
+	"miners": "/",
+	"%1 miner": [
+		"%1 miner",
+		"%1 miners"
 	],
-	"[Mine quote]Mines out cookie dough and chocolate chips.": "Mines out cookie dough and chocolate chips.",
-	"[Mine business name]Secret recipe": "Secret recipe",
-	"[Mine business quote]These give you the edge you need to outsell those pesky competitors.": "These give you the edge you need to outsell those pesky competitors.",
-	"Factory": "/",
-	"factory": "/",
-	"factories": "/",
-	"%1 factory": [
-		"%1 factory",
-		"%1 factories"
+	"[Mine quote]Mines out dragons from an long time ago.": "Mines out dragons from an long time ago.",
+	"[Mine business name]Secret temple": "Secret temple",
+	"[Mine business quote]Temples give you the edge you need to outpraise those pesky competitors.": "Temples give you the edge you need to outpraise those pesky competitors.",
+	"Worker": "/",
+	"worker": "/",
+	"workers": "/",
+	"%1 worker": [
+		"%1 worker",
+		"%1 workers"
 	],
-	"[Factory quote]Produces large quantities of cookies.": "Produces large quantities of cookies.",
+	"[Factory quote]Produces large quantities of dragons.": "Produces large quantities of dragons.",
 	"[Factory business name]Factory": "Factory",
-	"[Factory business quote]Mass production is the future of baking. Seize the day, and synergize!": "Mass production is the future of baking. Seize the day, and synergize!",
-	"Bank": "/",
-	"bank": "/",
-	"banks": "/",
-	"%1 bank": [
-		"%1 bank",
-		"%1 banks"
+	"[Factory business quote]Mass production is the future of dragon praising. Seize the day, and synergize!": "ass production is the future of dragon praising. Seize the day, and synergize!",
+	"Banker": "/",
+	"banker": "/",
+	"bankers": "/",
+	"%1 banker": [
+		"%1 banker",
+		"%1 bankers"
 	],
-	"[Bank quote]Generates cookies from interest.": "Generates cookies from interest.",
+	"[Bank quote]Generates additional praisings from interest.": "Generates additional praisings from interest.",
 	"[Bank business name]Investor": "Investor",
-	"[Bank business quote]Business folks with a nose for profit, ready to finance your venture as long as there's money to be made.": "Business folks with a nose for profit, ready to finance your venture as long as there's money to be made.",
-	"Temple": "/",
-	"temple": "/",
-	"temples": "/",
-	"%1 temple": [
-		"%1 temple",
-		"%1 temples"
+	"[Bank business quote]Business folks with a nose for profit, ready to finance your venture with many praises to uphold.": "Business folks with a nose for profit, ready to finance your venture with many praises to uphold.",
+	"Worshipper": "/",
+	"worshipper": "/",
+	"worshippers": "/",
+	"%1 worshipper": [
+		"%1 worshipper",
+		"%1 worshippers"
 	],
-	"[Temple quote]Full of precious, ancient chocolate.": "Full of precious, ancient chocolate.",
-	"[Temple business name]Like": "Like",
-	"[Temple business quote]Your social media page is going viral! Amassing likes is the key to a lasting online presence and juicy advertising deals.": "Your social media page is going viral! Amassing likes is the key to a lasting online presence and juicy advertising deals.",
-	"Wizard tower": "/",
-	"wizard tower": "/",
-	"wizard towers": "/",
-	"%1 wizard tower": [
-		"%1 wizard tower",
-		"%1 wizard towers"
+	"[Temple quote]Full ancient dragons.": "Full of ancient dragons.",
+	"[Temple business name]Praise": "Praise",
+	"[Temple business quote]Your social media page is going viral! Amassing praises is the key to a lasting online presence and juicy advertising deals.": "Your social media page is going viral! Amassing praises is the key to a lasting online presence and juicy advertising deals.",
+	"Mage": "/",
+	"mage": "/",
+	"mages": "/",
+	"%1 mage": [
+		"%1 mage",
+		"%1 mages"
 	],
-	"[Wizard tower quote]Summons cookies with magic spells.": "Summons cookies with magic spells.",
+	"[Wizard tower quote]Summons dragons with dragon-wizard spells.": "Summons dragons with dragon-wizard spells.",
 	"[Wizard tower business name]Meme": "Meme",
-	"[Wizard tower business quote]Cookie memes are all the rage! With just the right amount of social media astroturfing, your brand image will be all over the cyberspace.": "Cookie memes are all the rage! With just the right amount of social media astroturfing, your brand image will be all over the cyberspace.",
-	"Shipment": "/",
-	"shipment": "/",
-	"shipments": "/",
-	"%1 shipment": [
-		"%1 shipment",
-		"%1 shipments"
+	"[Wizard tower business quote]Dragon memes are all the rage! With just the right amount of social media astroturfing, your brand image will be all over the cyberspace.": "Drgaon memes are all the rage! With just the right amount of social media astroturfing, your brand image will be all over the cyberspace.",
+	"Astronaut": "/",
+	"astronaut": "/",
+	"astronauts": "/",
+	"%1 astronaut": [
+		"%1 astronaut",
+		"%1 astronauts"
 	],
-	"[Shipment quote]Brings in fresh cookies from the cookie planet.": "Brings in fresh cookies from the cookie planet.",
+	"[Shipment quote]Brings in unknown, unstudied dragons from the dragon star system.": "Brings in unknown, unstudied dragons from the dragon star system.",
 	"[Shipment business name]Supermarket": "Supermarket",
-	"[Shipment business quote]A gigantic cookie emporium - your very own retail chain.": "A gigantic cookie emporium - your very own retail chain.",
-	"Alchemy lab": "/",
-	"alchemy lab": "/",
-	"alchemy labs": "/",
-	"%1 alchemy lab": [
-		"%1 alchemy lab",
-		"%1 alchemy labs"
+	"[Shipment business quote]A gigantic dragon emporium - your very own retail chain.": "A gigantic dragon emporium - your very own retail chain.",
+	"Alchemist": "/",
+	"alchemist": "/",
+	"alchemists": "/",
+	"%1 alchemist": [
+		"%1 alchemist",
+		"%1 alchemists"
 	],
-	"[Alchemy lab quote]Turns gold into cookies!": "Turns gold into cookies!",
+	"[Alchemy lab quote]Finds a way to make artificial dragons!": "Finds a way to make artificial dragons!",
 	"[Alchemy lab business name]Stock share": "Stock share",
-	"[Alchemy lab business quote]You're officially on the stock market, and everyone wants a piece!": "You're officially on the stock market, and everyone wants a piece!",
-	"Portal": "/",
-	"portal": "/",
-	"portals": "/",
-	"%1 portal": [
-		"%1 portal",
-		"%1 portals"
+	"[Alchemy lab business quote]You're officially on the stock market, and everyone wants a dragon!": "You're officially on the stock market, and everyone wants a dragon!",
+	"Dragonologist": "/",
+	"dragonologist": "/",
+	"dragonologists": "/",
+	"%1 dragonologist": [
+		"%1 dragonologist",
+		"%1 dragonologists"
 	],
-	"[Portal quote]Opens a door to the Cookieverse.": "Opens a door to the Cookieverse.",
+	"[Portal quote]Has the ability to open a portal to the Dragon Galaxy System.": "Has the ability to open a portal to the Dragon Galaxy System.",
 	"[Portal business name]TV show": "TV show",
-	"[Portal business quote]Your cookies have their own sitcom! Hilarious baking hijinks set to the cheesiest laughtrack.": "Your cookies have their own sitcom! Hilarious baking hijinks set to the cheesiest laughtrack.",
-	"Time machine": "/",
-	"time machine": "/",
-	"time machines": "/",
-	"%1 time machine": [
-		"%1 time machine",
-		"%1 time machines"
+	"[Portal business quote]Your dragons have their own sitcom! Hilarious praising hijinks set to the cheesiest laughtrack.": "Your dragons have their own sitcom! Hilarious praising hijinks set to the cheesiest laughtrack.",
+	"Time Traveler": "/",
+	"time traveler": "/",
+	"time travelers": "/",
+	"%1 time traveler": [
+		"%1 time traveler",
+		"%1 time travelers"
 	],
-	"[Time machine quote]Brings cookies from the past, before they were even eaten.": "Brings cookies from the past, before they were even eaten.",
+	"[Time machine quote]Brings dragons from the past, before they were even praised.": "Brings dragons from the past, before they were even praised.",
 	"[Time machine business name]Theme park": "Theme park",
-	"[Time machine business quote]Cookie theme parks, full of mascots and roller-coasters. Build one, build a hundred!": "Cookie theme parks, full of mascots and roller-coasters. Build one, build a hundred!",
+	"[Time machine business quote]Dragon theme parks, full of dragons and rawr-coasters. Build one, build a hundred!": "Dragon theme parks, full of dragons and rawr-coasters. Build one, build a hundred!",
 	"Antimatter condenser": "/",
 	"antimatter condenser": "/",
 	"antimatter condensers": "/",
@@ -3307,7 +3283,7 @@ AddLanguage('EN','english',{
 	"[Achievement name 425]Eating its own": "Eating its own",
 	"[Achievement name 426]We must go deeper": "We must go deeper",
 	"[Achievement name 427]Sierpinski rhomboids": "Sierpinski rhomboids",
-	"[Achievement name 428]Gotta go fast": "Gotta go fast", bath!",
+	"[Achievement name 428]Gotta go fast": "Gotta go fast, bath!",
 	"[Achievement name 77]Fortune": "Fortune",
 	"[Achievement name 78]True Neverclick": "True Neverclick",
 	"[Achievement name 79]Elder nap": "Elder nap",
