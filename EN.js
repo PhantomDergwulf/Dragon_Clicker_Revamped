@@ -1,5 +1,5 @@
-ModLanguage('EN',{
-	"": {
+ModLanguage('*',{ // The "*" allows you to run the mod without an issue; however you'll still encounter some issues while testing. - Add in main.js and info.txt into reposit; otherwise, the mod will not work.
+	"": { 
 		"language": "en",
 		"plural-forms": "nplurals=2;plural=(n!=1);"
 	},
