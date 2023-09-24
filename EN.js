@@ -3531,5 +3531,5 @@ ModLanguage('*',{
 	"[Achievement name 639]Cookie Clicker": "Dragon Clicker",
 	"[Achievement name 640]What's not clicking": "What's not clicking",
 	"[Achievement name 641]All hands on deck": "All paws on deck",
-	"[Achievement name 642]A round of aplause": "A round of a-paws"
+	"[Achievement name 642]A round of applause": "A round of a-paws"
 });
