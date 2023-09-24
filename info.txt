@@ -7,7 +7,7 @@
  "GameVersion": 2.052,
  "Date": "23/09/2023",
  "LanguagePacks": [
-  "lang.js"
+  "EN.js"
  ],
  "Disabled": 1
 }
