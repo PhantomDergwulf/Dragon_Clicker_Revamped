@@ -2,12 +2,17 @@
  "Name": "Revamped Dragon Clicker",
  "ID": "dragon revamp",
  "Author": "Luminai, Vajik OwO, PhantomDergwulf, CarlTheFox",
+<<<<<<< HEAD
  "Description": "Reworked Food Buildings by Vajik OwO; All buildings now dragons by Luminai; Revamped text by PhantomDergwulf and CarlTheFox",
  "ModVersion": 0.01-prototype,
+=======
+ "Description": "Reworked Food Buildings by Vajik OwO; All buildings now dragons (Luminai); Revamped text by PhantomDergwulf and CarlTheFox",
+ "ModVersion": 1,
+>>>>>>> c2cc87596b7a695ff958d720f8edabfa302e2c8e
  "GameVersion": 2.052,
  "Date": "23/09/2023",
  "LanguagePacks": [
-  "lang.js"
+  "EN.js"
  ],
  "Disabled": 1
 }
