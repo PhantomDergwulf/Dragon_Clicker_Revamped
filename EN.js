@@ -1239,12 +1239,12 @@ ModLanguage('*',{
 		"You've pledged to the dergs <b>%1 times</b>."
 	],
 	"Research takes only <b>5 seconds</b>.": "Research takes only <b>5 seconds</b>.", // Carl ends there for now.
-	"Golden cookies appear <b>twice as often</b> and stay <b>twice as long</b>.": "/",
-	"Golden cookies appear <b>%1%</b> more often.": "/",
-	"Golden cookies appear <b>%1%</b> more often during %2.": "/",
-	"Golden cookies appear <b>really often</b>.": "/",
-	"Golden cookie effects last <b>twice as long</b>.": "/",
-	"Golden cookie effects last <b>%1%</b> longer.": "/",
+	"Golden cookies appear <b>twice as often</b> and stay <b>twice as long</b>.": "Golden dragons appear <b>twice as often</b> and stay <b>twice as long</b>.",
+	"Golden cookies appear <b>%1%</b> more often.": "Golden dragons appear <b>%1%</b> more often.",
+	"Golden cookies appear <b>%1%</b> more often during %2.": "Golden dragons appear <b>%1%</b> more often during %2.",
+	"Golden cookies appear <b>really often</b>.": "Golden dragons appear <b>really often</b>.",
+	"Golden cookie effects last <b>twice as long</b>.": "Golden dragon effects last <b>twice as long</b>.",
+	"Golden cookie effects last <b>%1%</b> longer.": "Golden dragon effects last <b>%1%</b> longer.",
 	"Golden cookies stay <b>%1%</b> longer.": "/",
 	"Golden cookies give <b>%1%</b> more cookies.": "/",
 	"Wrath cookies give <b>%1%</b> more cookies.": "/",
