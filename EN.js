@@ -3530,15 +3530,9 @@ ModLanguage('*',{
 	"[Achievement name 637]Debt evasion": "Debt evasion",
 	"[Achievement name 638]Oft we mar what's welll": "Oft we rawr what's well",
 	"[Achievement name 639]Cookie Clicker": "Dragon Clicker",
-<<<<<<< HEAD
 	"[Achievement name 640]What's not clicking": "What's not booping",
 	"[Achievement name 641]All on deck": "All paws on deck",
-	"[Achievement name 642]A round of applause": "A round of a-paws"
-=======
-	"[Achievement name 640]What's not clicking": "What's not clicking",
-	"[Achievement name 641]All hands on deck": "All paws on deck",
 	"[Achievement name 642]A round of applause": "A round of a-paws",
-
 	"REPLACE ALL": {
 		"Cursor": "Pat",
 		"Grandma": "Baker",
@@ -3588,5 +3582,4 @@ ModLanguage('*',{
 	"Cortex baker (short)": "Cloner",
 	"You": "You",
 	"You (short)": "You",
->>>>>>> b4ee955ee63fa65a33502d2420a217c9f2b2e30d
 });
