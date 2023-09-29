@@ -1584,7 +1584,7 @@ ModLanguage('*',{
 	"All upgrades are %1% cheaper for %2!": "All upgrades are %1% cheaper for %2!",
 	"All upgrades are %1% pricier for %2!": "All upgrades are %1% expensiver for %2...",
 	"Cookie production halted for %1,<br>but each click is worth %2 of CpS.": "Dragon production halted for %1,<br> but each click is worth %2 of DpS",
-	"Clicking power x%1 for %2!": "Click power x%1 for ",
+	"Clicking power x%1 for %2!": "Click power x%1 for %2!",
 	"Clicking power +%1% for %2!": "Click power +%1% for %2!",
 	"Cookies everywhere!": "Dragons everywhere!",
 	"You find %1% more golden cookies for the next %2.": "You find %1% more golden dragons for the next %2.",
