@@ -1858,7 +1858,7 @@ ModLanguage('*',{
 	"Ruby slot": "Tier 2",
 	"Jade slot": "Tier 1",
 	"empty": "Empty",
-	"Release to assign %1 to this slot.": "Rlease to assign %1 to this slot",
+	"Release to assign %1 to this slot.": "Release to assign %1 to this slot",
 	"Drag a spirit onto this slot to assign it.": "Drag a spirit onto this slot to assign it.",
 	"If a golden cookie is clicked, this spirit is unslotted and all worship swaps will be used up.": "If a golden dragon is clicked, this spirit is unslotted and all worship swaps will be used up.",
 	"Each time you slot a spirit, you use up one worship swap.<div class=\"line\"></div>If you have 2 swaps left, the next one will refill after %1.<br>If you have 1 swap left, the next one will refill after %2.<br>If you have 0 swaps left, you will get one after %3.<div class=\"line\"></div>Unslotting a spirit costs no swaps.": "Each time you slot a spirit, you use up one worship swap.<div class=\"line\"></div>If you have 2 swaps left, the next one will refill after %1.<br>If you have 1 swap left, the next one will refill after %2.<br>If you have 0 swaps left, you will get one after %3.<div class=\"line\"></div>Unslotting a spirit costs no swaps.",
