@@ -1423,7 +1423,7 @@ ModLanguage('*',{
 	"Buildings produce %1% less.": "Dragons produce %1% less.",
 	"All golden cookies are wrath cookies with a greater chance of a negative effect.": "All golden dragon are wrath cookies with a greater chance of a negative effect.",
 	"Wrinklers appear %1% faster and digest %2% more cookies.": "Furless Dragon appear %1% faster and digest %2% more cookies.",
-	"Effect is only active when your total amount of buildings ends with 0.": "Effect is only active when your total ",
+	"Effect is only active when your total amount of buildings ends with 0.": "Effect is only active when your total amount of dragons end with 0.",
 	"You may now send and receive gifts with other players through buttons in the top-right of the %1 menu.": "You may now send and recieve gifts with other players through buttons in the top-right of the %1 menu.",
 	"You need at least %1 cookies in bank to send and receive gifts.": "You need at least %1 dragon in BANK to send and recieve gifts.",
 	"Send a gift": "Send a offering",
