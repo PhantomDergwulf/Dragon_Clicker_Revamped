@@ -853,7 +853,7 @@ ModLanguage('*',{
 	"help me!": "Hwewp mee!~",
 	"Ascend": "Rise into space (Ascend)",
 	"You've been on this run for <b>%1</b>.": "You've been on this run for about... <b>%1</b>. - <small>I think you should probably consider ascending soon. :3</small>",
-	"Your prestige level is currently <b>%1</b>.<br>(CpS +%2%)": "Your prestige level is currently <b>%1></b>.<br>",
+	"Your prestige level is currently <b>%1</b>.<br>(CpS +%2%)": "Your prestige level is currently <b>%1</b>.<br>(DpS +%2%)",
 	"Ascending now would grant you no prestige.": "Rising into space now would grant you no prestige.",
 	"Ascending now would grant you<br><b>1 prestige level</b> (+1% CpS)<br>and <b>1 heavenly chip</b> to spend.": "Rising into space now would grant you<br><b>1 prestige level</b> (+1% CpS)<br>and <b>1 heavenly chip</b> to spend.",
 	"Ascending now would grant you<br><b>%1 prestige levels</b> (+%2% CpS)<br>and <b>%3 heavenly chips</b> to spend.": "Rising into space now now would grant you<br><b>%1 prestige levels</b> (+%2% CpS)<br>and <b>%3 heavenly chips</b> to spend.",
