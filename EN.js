@@ -3534,6 +3534,7 @@ ModLanguage('*',{
 	"[Achievement name 641]All on deck": "All paws on deck",
 	"[Achievement name 642]A round of applause": "A round of a-paws",
 	"REPLACE ALL": {
+		"Stockbroker": "Derg-ker",
 		"Cursor": "Pat",
 		"Grandma": "Baker",
 		"Farm": "Farmer",
