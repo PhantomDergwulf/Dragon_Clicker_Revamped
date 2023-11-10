@@ -1020,7 +1020,7 @@ ModLanguage('*',{
 		"%1 miner",
 		"%1 miners"
 	],
-	"[Mine quote]Mines out cookie dough and chocolate chips.": "Digs out ancient dragons ",
+	"[Mine quote]Mines out cookie dough and chocolate chips.": "Digs out ancient dragons.",
 	"[Mine business name]Secret recipe": "Secret temple",
 	"[Mine business quote]These give you the edge you need to outsell those pesky competitors.": "Temples give you the edge you need to outpraise those pesky heretics.",
 	"Factory": "Worker",
