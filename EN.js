@@ -3046,7 +3046,7 @@ ModLanguage('*',{
 	"[Achievement name 190]Panic at the bingo": "Panic at the bingo",
 	"[Achievement name 191]Rake in the dough": "Rake in the dough",
 	"[Achievement name 192]Quarry on": "Quarry on",
-	"[Achievement name 193]Yes I love technology": "Yes I love technology",
+	"[Achievement name 193]Yes I love technology": "Yes, I work in tech!",
 	"[Achievement name 194]Paid in full": "Paid in full",
 	"[Achievement name 195]Church of Cookiology": "Church of Cookiology",
 	"[Achievement name 196]Too many rabbits, not enough hats": "Too many rabbits, not enough hats",
